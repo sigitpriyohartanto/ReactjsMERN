@@ -63,35 +63,35 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "House Madam Mere",
+          "imageUrl": "/images/House Madam Mere.jpg",
+          "country": "Indonesia",
+          "city": "Merauke",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "House Onde Mande",
+          "imageUrl": "/images/House Onde Mande.jpg",
+          "country": "Indonesia",
+          "city": "Menado",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "House Rindu Gersang",
+          "imageUrl": "/images/House Rindu Gersang.jpg",
+          "country": "Indonesia",
+          "city": "Flores",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "House Merana Sendiri",
+          "imageUrl": "/images/House Merana Sendiri.jpg",
+          "country": "Indonesia",
+          "city": "Medan",
           "isPopular": true
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
         }
       ]
     },
@@ -101,35 +101,35 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "View Cities Hotel",
+          "imageUrl": "/images/View Cities Hotel.jpg",
+          "country": "Indonesia",
+          "city": "Jakarta",
           "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Smart Living Hotel",
+          "imageUrl": "/images/Smart Living Hotel.jpg",
+          "country": "Indonesia",
+          "city": "Makassar",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Ambarawa Hotel",
+          "imageUrl": "/images/Ambarawa Hotel.jpg",
+          "country": "Indonesia",
+          "city": "Ambarawa",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Shinning Hotel",
+          "imageUrl": "/images/Shinning Hotel.jpg",
+          "country": "Indonesia",
+          "city": "Balikpapan",
+          "isPopular": false
         }
       ]
     },
@@ -139,34 +139,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Apartment Kenari",
+          "imageUrl": "/images/Apartment Kenari.jpg",
+          "country": "Indonesia",
+          "city": "Depok",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Apartment Lirboyo",
+          "imageUrl": "/images/Apartment Lirboyo.jpg",
+          "country": "Indonesia",
+          "city": "Surabaya",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-11.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Apartment Daeng",
+          "imageUrl": "/images/Apartment Daeng.jpg",
+          "country": "Indonesia",
+          "city": "Jeneponto",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Apartment Merauke",
+          "imageUrl": "/images/Apartment Merauke.jpg",
+          "country": "Indonesia",
+          "city": "Merauke",
           "isPopular": false
         }
       ]
