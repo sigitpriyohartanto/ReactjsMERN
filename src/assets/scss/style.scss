@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+@import "colorVariables";
 @import "functions";
 @import "variables";
 @import "mixins";
@@ -114,7 +115,7 @@ section {
     right: 0;
     color: $white;
     min-height: 30px;
-    border: 0 15px;
+    border-radius: 0 15px;
     span {
       font-weight: 300;
     }
@@ -166,7 +167,6 @@ section {
       bottom: 0;
       transform: scale(1.1);
       transition: 0.25s transform ease-in-out;
-      border-radius: $border-radius;
     }
 
     .meta-wrapper {
@@ -197,4 +197,11 @@ section {
       }
     }
   }
+}
+
+.testimonial-hero,
+.testimonial-hero img {
+  width: 365px;
+  height: 500px;
+  border-radius: 20px 20px 70px 20px;
 }
