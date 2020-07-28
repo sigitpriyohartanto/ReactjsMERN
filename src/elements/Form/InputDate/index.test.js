@@ -2,7 +2,7 @@ import React from "react";
 import { render, fireEvent } from "@testing-library/react";
 import { screen } from "@testing-library/dom";
 import InputDate from "./index";
-import Date from "./index";
+// import Date from "./index";
 
 class TestInput extends React.Component {
   state = {
